@@ -1,0 +1,15 @@
+p {
+    font-style: normal;
+}
+
+li {
+    font-style: italic;
+}
+
+.pics {
+    font-size: 200px;
+}
+body {background-color:aquamarine}
+a:hover{
+    background-color: black;
+}
